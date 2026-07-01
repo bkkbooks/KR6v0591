@@ -1,0 +1,782 @@
+canonical_identifier: bkk:krp/KR6v0591/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0591/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛在人間
+  identifiers:
+    krp: KR6v0591
+    cbeta: Y14n0014
+    cbeta_old_id: Y14n0014
+    authorityid: CA0008333
+    json_key: Y0014
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y14/Y14n0014.xml
+    old_id: Y14n0014
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0591_001-Y.yaml, hash: 'sha256:089528400f56bebade15618e53d4f134aa0362b27f2a29f3ae37c8009c391adf'}
+  - {seq: 2, filename: KR6v0591_002-Y.yaml, hash: 'sha256:ea7c8ec7c494232fd98600ddb49b40d020341fa726b1ee063f0954fe48525a4c'}
+  - {seq: 3, filename: KR6v0591_003-Y.yaml, hash: 'sha256:7c856cd25fe69ea250a190b1d3d991eb2b4b046b217f3018b4831e46fe53e708'}
+  - {seq: 4, filename: KR6v0591_004-Y.yaml, hash: 'sha256:c259ae0806669c7b7177c2262a9401ba0ebcbb214958cb62f0f42b22cccbf8f1'}
+  - {seq: 5, filename: KR6v0591_005-Y.yaml, hash: 'sha256:d68f941846b7c4e34fc94e305c02f911c325b4f03ce87175a4f3f7177f728956'}
+  - {seq: 6, filename: KR6v0591_006-Y.yaml, hash: 'sha256:1b5b66d2ebfc01129d83fedbb3d97ec9323d6e8f47df2ddd6085ff389d5817c7'}
+  - {seq: 7, filename: KR6v0591_007-Y.yaml, hash: 'sha256:dae0977dc06c02f950c1bf26fdd0c5d380876a80af248a7b813548af9f493a37'}
+  - {seq: 8, filename: KR6v0591_008-Y.yaml, hash: 'sha256:932f3094e4a2b28e23b3effa8ce12d67a7c830ca141cbfc1159324dfbfb403fa'}
+  - {seq: 9, filename: KR6v0591_009-Y.yaml, hash: 'sha256:41b763d4655680db8f66453350007502fff76e854a4cc8c92e72c76ded471657'}
+  - {seq: 10, filename: KR6v0591_010-Y.yaml, hash: 'sha256:b96d9326c8aa775b7a2b3a09f3c67b767a877abea3537cd2e5a6011790a7bead'}
+  - {seq: 11, filename: KR6v0591_011-Y.yaml, hash: 'sha256:7f3f253da06bed475b011d53b8b005cb21194cec0b65f2da7662cbb0a98bcc90'}
+  - {seq: 12, filename: KR6v0591_012-Y.yaml, hash: 'sha256:dd926f1e3fe8e752ff4474872851385662e73d054305fc9a7c685c54e6a324e1'}
+  - {seq: 13, filename: KR6v0591_013-Y.yaml, hash: 'sha256:953c1cc517a92fa0b696a6a69db9910ebb1f29e36442cd5aee85da176af322fa'}
+  - {seq: 14, filename: KR6v0591_014-Y.yaml, hash: 'sha256:82656c730c71ef5fe79099e96a21a4c78bfa1a579659f3750c0d1b131509d935'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0591_001-Y.markers.yaml, hash: 'sha256:97af7c7d8634ecc43cd9b23e4bd659bcf7eb716a7275d47daaf8a2774c3b5b7c'}
+  - {seq: 2, role: markers, filename: assets/KR6v0591_002-Y.markers.yaml, hash: 'sha256:f21fb0c26585ba63ae1745f76293cdd229d1665eaa0766191c03ef94f0c996ad'}
+  - {seq: 3, role: markers, filename: assets/KR6v0591_003-Y.markers.yaml, hash: 'sha256:e436bdf67f68b8accfbc33e23dc70295237c116d7638632302f590e6d492be65'}
+  - {seq: 4, role: markers, filename: assets/KR6v0591_004-Y.markers.yaml, hash: 'sha256:2941b96ed6060fa82871a6d805770c8e58e861686e509f0c15be6562c9a40f2b'}
+  - {seq: 5, role: markers, filename: assets/KR6v0591_005-Y.markers.yaml, hash: 'sha256:7f80d0656a5dd9b997892b1915b375c35344d8d010f9d3459c419dd46ffb0141'}
+  - {seq: 6, role: markers, filename: assets/KR6v0591_006-Y.markers.yaml, hash: 'sha256:09a19b5c91e19000d99135e78ed5c9fcce7082045527a4bae7f7fe94300670d4'}
+  - {seq: 7, role: markers, filename: assets/KR6v0591_007-Y.markers.yaml, hash: 'sha256:5aa6f630993d085023ff85dd5d29fead7c89f15d30ff8a3eb310bf7b9d32fd74'}
+  - {seq: 8, role: markers, filename: assets/KR6v0591_008-Y.markers.yaml, hash: 'sha256:0a4188df053121ae6fee8c45f5ed51de8f5d3b62cf8604a0893e3ec45b5226d5'}
+  - {seq: 9, role: markers, filename: assets/KR6v0591_009-Y.markers.yaml, hash: 'sha256:aa510f7d8fa7cec4553f57232f2a6101e4bf822621752c1ef97112e72886c846'}
+  - {seq: 10, role: markers, filename: assets/KR6v0591_010-Y.markers.yaml, hash: 'sha256:1cea0e43f08a691d053a45d4bf5307e6b92a72727c31077c7ff9609cdd6c428f'}
+  - {seq: 11, role: markers, filename: assets/KR6v0591_011-Y.markers.yaml, hash: 'sha256:856f49068eef0908ae132699751b0b2ea34e1ea273a7df91bd99e71a9d1c1dbf'}
+  - {seq: 12, role: markers, filename: assets/KR6v0591_012-Y.markers.yaml, hash: 'sha256:e948b6b6281057fea51c7684b2864cc5342dcff58f4bbb78ee2b7f73fc50349b'}
+  - {seq: 13, role: markers, filename: assets/KR6v0591_013-Y.markers.yaml, hash: 'sha256:9392695b115017845c343a129eecac7a9b6fcd48ef030f04b9057436d92d6d0b'}
+  - {seq: 14, role: markers, filename: assets/KR6v0591_014-Y.markers.yaml, hash: 'sha256:cb7bb8b493d8a0429426b88b33a90ec5d3674d3b59b17a2c90e08d02505b6bb2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 5175
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一、佛在人間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-mulu-2
+    span:
+    - body
+    - 4
+    - 4
+  label: 一　釋尊小史
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-mulu-3
+    span:
+    - body
+    - 961
+    - 961
+  label: 二　佛陀的身命
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-mulu-4
+    span:
+    - body
+    - 2036
+    - 2036
+  label: 三　釋尊的故國之思
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-mulu-5
+    span:
+    - body
+    - 3033
+    - 3033
+  label: 四　出家更接近了人間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0591_Y_001-mulu-6
+    span:
+    - body
+    - 4125
+    - 4125
+  label: 五　佛從人間被升到天上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0591_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 4264
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0591_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二、人間佛教緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0591_Y_002-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 一　人間佛教的展開
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0591_Y_002-mulu-3
+    span:
+    - body
+    - 2016
+    - 2016
+  label: 二　人間佛教的三寶觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0591_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 15572
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0591_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三、從依機設教來說明人間佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0591_Y_003-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 一　教乘應機的安立
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0591_Y_003-mulu-3
+    span:
+    - body
+    - 4980
+    - 4980
+  label: 二　諸乘應機的分析
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0591_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 8309
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0591_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 四、人性
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0591_Y_004-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 一　人與眾生性
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0591_Y_004-mulu-3
+    span:
+    - body
+    - 4151
+    - 4151
+  label: 二　人性與佛性
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0591_Y_005-juan-start
+    span:
+    - body
+    - 0
+    - 10075
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0591_Y_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 五、人間佛教要略
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0591_Y_005-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 一　論題核心
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0591_Y_005-mulu-3
+    span:
+    - body
+    - 1928
+    - 1928
+  label: 二　理論原則
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0591_Y_005-mulu-4
+    span:
+    - body
+    - 4931
+    - 4931
+  label: 三　時代傾向
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0591_Y_005-mulu-5
+    span:
+    - body
+    - 8408
+    - 8408
+  label: 四　修持心要
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0591_Y_006-juan-start
+    span:
+    - body
+    - 0
+    - 4886
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0591_Y_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六、從人到成佛之路
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0591_Y_006-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 一　學佛即向佛學習
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0591_Y_006-mulu-3
+    span:
+    - body
+    - 1508
+    - 1508
+  label: 二　唯人為能學佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0591_Y_006-mulu-4
+    span:
+    - body
+    - 2622
+    - 2622
+  label: 三　學佛所不可少的信解
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0591_Y_006-mulu-5
+    span:
+    - body
+    - 3530
+    - 3530
+  label: 四　從十善菩薩學起
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-juan-start
+    span:
+    - body
+    - 0
+    - 7591
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七、佛法與人類和平
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 一　和平的意義
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-3
+    span:
+    - body
+    - 1139
+    - 1139
+  label: 二　不和（不平）的心因
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-4
+    span:
+    - body
+    - 2808
+    - 2808
+  label: 三　（不和）不平的事緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-5
+    span:
+    - body
+    - 3580
+    - 3580
+  label: 四　外緣為重的世間和平
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-6
+    span:
+    - body
+    - 5601
+    - 5601
+  label: 五　著重內因的心地和平
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0591_Y_007-mulu-7
+    span:
+    - body
+    - 6329
+    - 6329
+  label: 六　內因外緣並重的究竟和平
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0591_Y_008-juan-start
+    span:
+    - body
+    - 0
+    - 28099
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0591_Y_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八、佛法是救世之仁
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0591_Y_008-mulu-2
+    span:
+    - body
+    - 508
+    - 508
+  label: 一　人間相互引起的憂苦的救濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0591_Y_008-mulu-3
+    span:
+    - body
+    - 14347
+    - 14347
+  label: 二　身心充滿憂苦的解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-juan-start
+    span:
+    - body
+    - 0
+    - 8010
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 九、佛教的財富觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 一　敘起
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-mulu-3
+    span:
+    - body
+    - 1311
+    - 1311
+  label: 二　財富由布施福業而來
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-mulu-4
+    span:
+    - body
+    - 2757
+    - 2757
+  label: 三　如法求財不以非法
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-mulu-5
+    span:
+    - body
+    - 5175
+    - 5175
+  label: 四　財富的處理
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0591_Y_009-mulu-6
+    span:
+    - body
+    - 5699
+    - 5699
+  label: 五　財富究屬於誰
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0591_Y_010-juan-start
+    span:
+    - body
+    - 0
+    - 10566
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0591_Y_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十、佛教的知識觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0591_Y_010-mulu-2
+    span:
+    - body
+    - 261
+    - 261
+  label: 一　一般文化界的看法
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0591_Y_010-mulu-3
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 二　佛教的知識觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0591_Y_010-mulu-4
+    span:
+    - body
+    - 8550
+    - 8550
+  label: 三　現代知識應有之反省
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0591_Y_011-juan-start
+    span:
+    - body
+    - 0
+    - 2190
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0591_Y_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十一、佛教的戰鬥觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-juan-start
+    span:
+    - body
+    - 0
+    - 5990
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十二、一般道德與佛化道德
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-2
+    span:
+    - body
+    - 362
+    - 362
+  label: 一　道德與不道德
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-3
+    span:
+    - body
+    - 837
+    - 837
+  label: 二　最一般的道德與道德律
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-4
+    span:
+    - body
+    - 2460
+    - 2460
+  label: 三　道德的變與不變
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-5
+    span:
+    - body
+    - 3438
+    - 3438
+  label: 四　道德的三增上
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-6
+    span:
+    - body
+    - 4146
+    - 4146
+  label: 五　佛化的道德在般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0591_Y_012-mulu-7
+    span:
+    - body
+    - 5521
+    - 5521
+  label: 六　學佛即是道德的實踐
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0591_Y_013-juan-start
+    span:
+    - body
+    - 0
+    - 3420
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0591_Y_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十三、佛教與教育
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0591_Y_014-juan-start
+    span:
+    - body
+    - 0
+    - 6308
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0591_Y_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十四、發揚佛法以鼓鑄世界性之新文化
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0591_Y_014-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 一　佛法與世界性
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0591_Y_014-mulu-3
+    span:
+    - body
+    - 1387
+    - 1387
+  label: 二　佛教的世界性原理
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0591_Y_014-mulu-4
+    span:
+    - body
+    - 3917
+    - 3917
+  label: 三　佛教的世界性事例
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0591_Y_014-mulu-5
+    span:
+    - body
+    - 5791
+    - 5791
+  label: 四　結論
+  type: mulu
+  level: 1
+hash: sha256:c484658b1e59c54f64558aa6f2396097f25ff4d7b7ee99cb7ac164261c6b8a92
